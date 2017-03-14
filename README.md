@@ -1,1 +1,1 @@
-dailydrip-elixir
+These exercises are the result of following along the [DailyDrip.com](https://www.dailydrip.com) lessons.
